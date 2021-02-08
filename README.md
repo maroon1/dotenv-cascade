@@ -5,13 +5,13 @@
 ## 安装
 
 ```bash
-npm i dotenv-cascade
+npm i npm i @maroon1/dotenv-cascade
 ```
 
 ## 用法
 
 ```javascript
-import { cascade } from 'dotenv-cascade';
+import { cascade } from 'npm i @maroon1/dotenv-cascade';
 
 // 默认使用项目根目录中的 .env* 文件
 cascade();
